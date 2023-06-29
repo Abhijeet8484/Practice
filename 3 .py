@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+
 
 
 import pandas as pd
@@ -10,14 +10,14 @@ import sklearn
 from sklearn import datasets
 
 
-# In[2]:
+
 
 
 iris = datasets.load_iris()
 iris
 
 
-# In[3]:
+
 
 
 df = pd.DataFrame(iris['data'])
