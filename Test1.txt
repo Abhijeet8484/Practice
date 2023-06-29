@@ -1,1 +1,3 @@
-This is trial og GIT repo.
+This is trial of GIT repo.
+
+Adding some more text.
