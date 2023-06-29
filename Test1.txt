@@ -1,3 +1,5 @@
 This is trial of GIT repo.
 
 Adding some more text.
+
+making changes
